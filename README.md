@@ -1,7 +1,7 @@
 
 # About Me
 Hey, I'm Kanchan Rai a Computer Science student from India. I can code in Python/C/C++. 
-Currently exploring multiple areas in tech. 
+<br>I am currently exploring multiple areas in tech. 
 <br>Don't forget to take a look at some of my projects :)
 <br>Follow me if you know me. 
 
