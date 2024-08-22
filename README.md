@@ -1,8 +1,6 @@
 # 💫 About Me:
-Hey, I'm Kanchan Rai a Computer Science student from India. I can code in Python/C/C++/Java.<br>I am currently exploring multiple areas in tech. Don't forget to take a look at some of my projects<br>Follow me if you know me:)
-
-
-## 🌐 Socials:
+Hey, I'm Kanchan Rai a Computer Science student from India. I can code in Python/C/C++/Java.<br>I am currently exploring multiple areas in tech. Don't forget to take a look at some of my projects<br>Make sure to hit me up for some collaborations!
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kanchanraiii) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kanchanraiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanchanraiii) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kanchanraiii) 
 
 # 💻 Tech Stack:
