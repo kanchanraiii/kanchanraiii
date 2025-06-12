@@ -3,16 +3,16 @@
  
 I love building cool things, learning new tech, and vibing with communities 💻💫
 
----
 
-## 🧠 What I’m Up To
+
+## What I’m Up To
 - 🌱 Currently working on **Machine Learning** & **Backend Development**
 - 🚀 Always down for **collaborations** and **hackathons**
 - 📚 Passionate about tech that solves real-world problems
 
----
 
-## 💌 Let's Connect
+
+## Let's Connect
 Find me where the vibes are right:
 
 - 🧋 [Instagram](https://instagram.com/kanchanraiii)
@@ -20,17 +20,13 @@ Find me where the vibes are right:
 - 💬 [Discord](https://discord.gg/kanchanraiii)
 - ✖️ [X (Twitter)](https://x.com/kanchanraiii)
 
----
-
-## ✨ Projects & Magic
 Wanna see some of my work? Check out my pinned projects right here on GitHub!  
 They’re made with effort, curiosity, and care 💡💛
 
----
 ## Badges Collection
 [![An image of @kanchanrai7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kanchanrai7)](https://holopin.io/@kanchanrai7)
 
----
+
 
 
 
