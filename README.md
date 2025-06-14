@@ -1,4 +1,4 @@
-# 🌼 Hey there, I'm Kanchan Rai!
+# Hey there, I'm Kanchan Rai!
 
  
 I love building cool things, learning new tech, and vibing with communities 💻💫
