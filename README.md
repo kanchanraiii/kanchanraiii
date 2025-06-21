@@ -1,4 +1,6 @@
-# Hey there, I'm Kanchan Rai!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76B8A&center=true&vCenter=true&width=800&lines=Hey+there...;I'm+Kanchan+Rai...;" alt="Typing SVG" />
+</p>
 
  
 I love building cool things, learning new tech, and vibing with communities 💻💫
@@ -7,7 +9,7 @@ I love building cool things, learning new tech, and vibing with communities 💻
 
 ## What I’m Up To
 - 🌱 Currently working on **Machine Learning** & **Backend Development**
-- 🚀 Always down for **collaborations** and **hackathons**
+- 🚀 Always down for **collaborations**, **hackathons** and **community building**
 - 📚 Passionate about tech that solves real-world problems
 
 
